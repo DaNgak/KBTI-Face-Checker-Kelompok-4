@@ -118,10 +118,9 @@ Face Checker merupakan contoh biometrika berdasakan bagian tubuh. Sistem ini ada
 > Sekian pengenalan aplikasi Face Checker dari kelompok 4. Akhir kata kami ucapkan `terima kasih` karena telah mencoba aplikasi yang kami develop. Salam [#AtapNegeri](https://www.youtube.com/user/fiersabesari)
 
 ```
-“Kalaupun harus gagal, setidaknya gagal dengan cepat dan tegas.
-Daripada berputar-putar, masuk friendzone, jadi teman curhat,
-menunggu dia putus, main kode, berusaha jujur,
-eh sudah begitu gagal-gagal juga.”
+“Tidak perlu pelit ilmu.
+Semua orang bisa memegang gitar yang sama,
+tetapi tidak semuanya akan memainkan lagu yang sama.”
 
 – Fiersa Besari
 ```
