@@ -4,7 +4,7 @@
 
 -   Aliyya Putri Setiyomadani (2041720115)
 -   Aria Pratama Effendi (2041720112)
--   Zalfa Putri Nabilah (2041720103)
+-   Zalfa' Putri Nabilah (2041720103)
 
 ## Cara Instalasi Face Checker
 
@@ -71,9 +71,54 @@ Face Checker merupakan contoh biometrika berdasakan bagian tubuh. Sistem ini ada
 <details>
     <summary><b>Running Aplikasi</b></summary>
 
-1. Pertama jalankan file `index.py`
-   ![Gambar Run App](https://cdn.discordapp.com/attachments/878508823873196114/921701475892228146/unknown.png)
+1.  Pertama jalankan file `index.py`
+    ![Gambar Run App](https://cdn.discordapp.com/attachments/878508823873196114/921701475892228146/unknown.png)
+       <hr>
+1.  Selanjutnya akan tampil GUI Aplikasi seperti berikut
+    ![Gambar Aplikasi Face Checker](https://cdn.discordapp.com/attachments/878508823873196114/921677584947875880/unknown.png)
+    <hr>
+1.  Masukkan _**ID Student**_ dan _**Nama Student**_
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921704311493394432/unknown.png)
+    <hr>
+1.  Klik tombol `take images` untuk mendapatkan sample / gambar
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921783574385004544/unknown.png)
+    <hr>
+1.  Setelah klik tombol `take images` akan muncul kamera untuk mengenali dan mengambil sample dari object
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921905508259070013/unknown.png)
+    <hr>
+1.  Setelah system berhasil mendeteksi object, akan muncul notifikasi pada label _Notification System_ yang berisikan _**ID Student**_ dan _**Nama Student**_ yang telah diinputkan, lalu klik tombol `train images`
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921783767146827826/unknown.png)
      <hr>
-1. Selanjutnya akan tampil GUI Aplikasi seperti berikut
-![Gambar Aplikasi Face Checker](https://cdn.discordapp.com/attachments/878508823873196114/921677584947875880/unknown.png)
- </details>
+1.  Jika berhasil maka akan muncul notifikasi pada label _Notification System_
+    dengan message `image trained`
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921783837246230578/unknown.png)
+    <hr>
+1.  Untuk melihat apakah datanya udah masuk bisa dilihat di folder `StudentDetails` untuk melihat apakah data nya berhasil di _train_ atau tidak
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921913156522098698/unknown.png)
+    <hr>
+1.  Selanjutnya klik tombol `take images` dan kamera nantinya akan terbuka
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921783837246230578/unknown.png)
+    <hr>
+1.  Setelah terdeteksi oleh kamera seperti gambar dibawah
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921907155223863326/unknown.png)
+    <hr>
+1.  Tekan huruf `Q` yang ada pada keyboard device anda masing-masing, dan nantinya akan muncul _**ID Student**_ - _**Nama Student**_ dan _**DATETIME**_ ketika proses `take images` berlangsung
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921907805076746300/unknown.png)
+    <hr>
+1.  Untuk mengetahui apakah datanya sudah masuk, anda bisa melihat di folder `Attandance` lalu buka file csv nya, nanti akan terlihat seperti gambar berikut
+    ![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921910878415249478/unknown.png)
+    <hr>
+1.  Jika telah melakukan semua langkah diatas, maka aplikasi sudah selesai digunakan dan Anda bisa men klik tombol `Quit` dan nantinya aplikasi akan `exit()` dengan sendirinya
+![Gambar Aplikasi Demo](https://cdn.discordapp.com/attachments/878508823873196114/921910878415249478/unknown.png)
+<hr>
+</details>
+
+## Penutup
+
+> Sekian pengenalan aplikasi Face Checker dari kelompok 4. Akhir kata kami ucapkan `terima kasih` karena telah mencoba aplikasi yang kami develop. Salam [#AtapNegeri](https://www.youtube.com/user/fiersabesari)
+
+```
+“Kalaupun harus gagal, setidaknya gagal dengan cepat dan tegas. Daripada berputar-putar, masuk friendzone, jadi teman curhat, menunggu dia putus, main kode, berusaha jujur, eh sudah begitu gagal-gagal juga.”
+
+– Fiersa Besari
+```
